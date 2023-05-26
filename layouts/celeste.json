@@ -1,6 +1,6 @@
 {
     "width": 350,
-    "height": 185,
+    "height": 240,
     "buttons": [
         {
             "keycode": 39,
@@ -35,12 +35,28 @@
             "text": "C"
         },
         {
+            "keycode": 55,
+            "x": 175,
+            "y": 65,
+            "width": 50,
+            "height": 50,
+            "text": "V"
+        },
+        {
             "keycode": 50,
             "x": 10,
             "y": 120,
             "width": 160,
             "height": 50,
             "text": "SHIFT"
+        },
+        {
+            "keycode": 65,
+            "x": 10,
+            "y": 175,
+            "width": 325,
+            "height": 50,
+            "text": "SPACE"
         },
         {
             "keycode": 113,
